@@ -8,8 +8,7 @@
 </head>
 <body>
 
-main.jsp
-2023.11.23 다시 수정
-아니 왜안돼??
+	user1
+	
 </body>
 </html>
